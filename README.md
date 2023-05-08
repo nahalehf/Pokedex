@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex -- Pokemon detector and classifier
 
 DeepLearning_FinalProject includes all the code required for training the classifier, segmentation, and final test. Please start by running the cells one by one. The non-maximum supression is also included in the code. Please remember to download the full dataset from https://www.kaggle.com/datasets/lantian773030/pokemonclassification. Or alternatively, you can skip the training process and use the best trained model (included with the report on canvas).
 
